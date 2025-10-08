@@ -1,0 +1,149 @@
+Title: Wireless Bluetooth Headphones
+Description: Over-ear noise-cancelling headphones with up to 30 hours of battery life and quick charge support.
+Price: $89.99
+Category: Electronics
+Features: Bluetooth 5.3, Noise Cancellation, Fast Charging, Foldable Design
+
+Title: Smart Fitness Watch
+Description: A waterproof smartwatch with heart rate monitoring, sleep tracking, and GPS functionality.
+Price: $119.99
+Category: Wearables
+Features: Heart Rate Monitor, GPS, Water Resistant, Sleep Tracker
+
+Title: Mechanical Gaming Keyboard
+Description: RGB backlit mechanical keyboard with blue switches and anti-ghosting support.
+Price: $59.99
+Category: Electronics
+Features: RGB Lighting, Blue Switches, Anti-Ghosting, Ergonomic Design
+
+Title: Portable Power Bank 20000mAh
+Description: Compact power bank with fast charging and dual USB ports.
+Price: $34.99
+Category: Accessories
+Features: Dual USB, Fast Charge, LED Indicator, Compact Design
+
+Title: 4K Action Camera
+Description: Waterproof sports camera ideal for outdoor adventures with WiFi and wide-angle lens.
+Price: $139.99
+Category: Cameras
+Features: 4K Video, Waterproof, WiFi Connectivity, Wide Angle Lens
+
+Title: Wireless Mouse
+Description: Ergonomic wireless mouse with adjustable DPI and silent click.
+Price: $24.99
+Category: Computer Accessories
+Features: Adjustable DPI, Silent Click, USB Receiver, Long Battery Life
+
+Title: Smart LED Light Bulb
+Description: WiFi-enabled RGB light bulb compatible with Alexa and Google Home.
+Price: $14.99
+Category: Home Automation
+Features: RGB Lighting, Voice Control, Energy Efficient, App Controlled
+
+Title: Stainless Steel Water Bottle
+Description: 1-liter insulated water bottle that keeps drinks cold for 24 hours.
+Price: $19.99
+Category: Lifestyle
+Features: Insulated, Leakproof, BPA Free, Reusable
+
+Title: Laptop Stand Adjustable
+Description: Aluminum laptop stand with adjustable height and cooling ventilation.
+Price: $29.99
+Category: Office Accessories
+Features: Adjustable Height, Foldable, Ventilated Base, Lightweight
+
+Title: Noise Cancelling Earbuds
+Description: Compact true wireless earbuds with ambient sound mode and touch controls.
+Price: $79.99
+Category: Audio
+Features: Touch Controls, Noise Cancellation, Wireless Charging, Waterproof
+
+Title: Electric Toothbrush
+Description: Rechargeable toothbrush with multiple cleaning modes and smart timer.
+Price: $49.99
+Category: Personal Care
+Features: Smart Timer, Rechargeable, 5 Modes, Travel Case
+
+Title: Yoga Mat Pro
+Description: Non-slip thick yoga mat suitable for all types of workouts.
+Price: $39.99
+Category: Fitness
+Features: Non-Slip, Eco-Friendly, Sweat Resistant, Carry Strap Included
+
+Title: Smart Home Security Camera
+Description: Indoor WiFi camera with motion detection and night vision.
+Price: $59.99
+Category: Home Security
+Features: Motion Detection, Night Vision, Two-Way Audio, Cloud Storage
+
+Title: Electric Kettle
+Description: Stainless steel electric kettle with auto shut-off and 1.7L capacity.
+Price: $34.99
+Category: Kitchen Appliances
+Features: Auto Shut-Off, Fast Boil, BPA Free, 360° Base
+
+Title: Wireless Charging Pad
+Description: Fast wireless charger compatible with iPhone and Android devices.
+Price: $22.99
+Category: Electronics
+Features: Fast Charge, Overheat Protection, Compact Design, LED Indicator
+
+Title: DSLR Camera Tripod
+Description: Lightweight aluminum tripod with 3-way pan head and quick release plate.
+Price: $49.99
+Category: Photography
+Features: Adjustable Height, 360° Rotation, Lightweight, Carry Bag
+
+Title: Smart Air Purifier
+Description: Removes dust, pollen, and smoke with HEPA filter and app control.
+Price: $129.99
+Category: Home Appliances
+Features: HEPA Filter, Air Quality Sensor, App Control, Quiet Operation
+
+Title: Bluetooth Speaker
+Description: Portable waterproof speaker with deep bass and 12-hour playtime.
+Price: $44.99
+Category: Audio
+Features: Waterproof, Deep Bass, Bluetooth 5.0, Long Battery Life
+
+Title: Electric Standing Desk
+Description: Height adjustable standing desk with digital memory presets.
+Price: $299.99
+Category: Office Furniture
+Features: Motorized Lift, Memory Settings, Sturdy Frame, Cable Management
+
+Title: Smartphone Gimbal Stabilizer
+Description: 3-axis gimbal for smooth video recording and vlogging.
+Price: $89.99
+Category: Photography
+Features: 3-Axis Stabilization, Portable, Bluetooth Control, Long Battery Life
+
+Title: Mini Projector
+Description: Compact portable projector supporting 1080p resolution and HDMI input.
+Price: $149.99
+Category: Home Theater
+Features: 1080p Support, HDMI, Portable, Built-in Speaker
+
+Title: Wireless Doorbell Kit
+Description: Easy-to-install wireless doorbell with 36 chimes and LED indicator.
+Price: $24.99
+Category: Home Security
+Features: Wireless, LED Indicator, 36 Chimes, Long Range
+
+Title: Smart Thermostat
+Description: Energy-saving thermostat with remote control via mobile app.
+Price: $169.99
+Category: Smart Home
+Features: App Control, Energy Saving, Voice Assistant Support, Scheduling
+
+Title: Robot Vacuum Cleaner
+Description: Smart vacuum with mapping technology and auto-charging dock.
+Price: $249.99
+Category: Home Appliances
+Features: Auto Charging, Mapping, App Control, Quiet Mode
+
+Title: LED Monitor 27-inch
+Description: Full HD 27-inch LED monitor with 75Hz refresh rate and slim bezels.
+Price: $179.99
+Category: Computer Hardware
+Features: Full HD, 75Hz, Slim Design, Eye Care Mode
